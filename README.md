@@ -6,7 +6,7 @@
 ## 📖 Overview
 This application is a clinical decision support tool designed for orthopedic surgeons. It calculates the **Rotator Cuff Healing Index (RoHI)** based on the study by *Kwon et al. (AJSM 2019)* and suggests optimal surgical treatments (Repair vs. Patch vs. RTSA).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osdrjiun-knuh/RoHI-Decision-Support/blob/main/RoHI_Calculator.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/osdrjiun-knuh/Rotator-Cuff-Decision-Support-qRoHI/blob/main/RoHI_Calculator.ipynb)
 
 ## 🚀 Key Features
 1. **RoHI Scoring:** Calculates a 15-point score based on Retraction, Fatty Infiltration, Age, Tear Size, BMD, and Work Activity.
